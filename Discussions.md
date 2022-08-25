@@ -1,9 +1,9 @@
-#### Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
+#### ホラクラシー憲法に関する変更、問題、その他の歪について議論することができます。
 
-Navigate <a href="https://github.com/holacracyone/Holacracy-Constitution/issues" target="_blank">Here</a> and click on the green "New Issue" button. 
+<a href="https://github.com/holacracyone/Holacracy-Constitution/issues" target="_blank">こちら</a>に移動して、緑色の「New Issue」ボタンをクリックします。
 
-Title your discussion and describe your points and click on "Submit new issue". 
+議論のタイトルと論点を説明し、「Submit new issue」をクリックします。
 
-Depending on your settings you'll get notifications about activity on your submission. 
+設定によっては、あなたの投稿に関するアクティビティが通知されます。
 
-Thanks for participating. 
+ご参加ありがとうございます。
