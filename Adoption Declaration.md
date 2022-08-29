@@ -1,70 +1,71 @@
-Constitution Adoption Declaration
+憲法適用宣言
 =================================
 
-The Ratifier(s) named below hereby adopt the following sections of the Holacracy Constitution v5.0 as the governance and operating framework for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”):
+下記の批准者は、ホラクラシー憲法5.0の以下の条項を
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (「組織」)のガバナンスおよび運営のフレームワークとして適用します:
 
-#### [ X ] Article 1: Organizational Structure
+#### [ X ] 第1条: 組織体系
 
-- Article 1 is required to use any other rules of the Constitution.
+- 第1条は憲法のルールを使用するために必要です。
 
-#### [\_\_] Article 2: Rules of Cooperation
+#### [\_\_] 第2条: 協力のルール
 
-- If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- 本条項が適用されない場合、サークルリードは、包含するサークルのサークルリードが批准者を別途定める場合を除き、パートナーがサークル内で活動する際に他者と協力する義務を定めることができます。
 
-#### [\_\_] Article 3: Tactical Meetings
+#### [\_\_] 第3条: タクティカルミーティング
 
-- If this Article is not adopted, the Organization will continue its current meeting habits, until otherwise changed by a Circle Lead for their Circle, or until otherwise specified by a broader Circle Lead or by the Ratifiers.
+- 本条項が適用されない場合、組織は、サークルリードが自身のサークルのために変更するか、包含するサークルリードまたは批准者が指定するまで、現行のミーティングの慣行を継続するものとします。
 
-#### [\_\_] Article 4: Distributed Authority
+#### [\_\_] 第4条: 権限の分散
 
-- If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- 本条項が適用されない場合、ロールリードは、包含するサークルのサークルリードまたは批准者が別途指定しない限り、すべての行動および決定を、自身のサークルまたは包含するサークルのサークルリードからの指導や指示に合わせなければなりません。
 
-#### [\_\_] Article 5: Governance Process
+#### [\_\_] 第5条: ガバナンスプロセス
 
-- If this Article is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
-
----
-
-**Adopted this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_ by:**
-
-*Ratifier Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
+- 本条項が適用されない場合、サークルリードは、包含するサークルのサークルリードまたは批准者が別途定める場合を除き、排他的にそのサークル内のガバナンスをいつでも編集したり、他の人に編集させることができ、そのサークルのガバナンスの解釈に関する対立を解決することができるものとします。
 
 ---
 
-**The Ratifiers hereby appoint the following individuals as initial Partners of the Organization, and those Partners hereby agree to use best efforts to abide by the terms of the Constitution to the extent adopted by the Organization.**
+**\_\_\_\_\_\_\_\_年\_\_\_\_\_\_\_\_月\_\_\_\_\_\_\_\_日、以下の者によって適用されます:**
 
-*Partner Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
+*批准者署名:*
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+氏名:
+
+職名:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+氏名:
+
+職名:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+氏名:
+
+職名:
+
+---
+
+**批准者は、ここに、以下の者を組織の最初のパートナーとして任命し、これらのパートナーは、組織が適用する範囲で、憲法の条項を遵守するために最善の努力をすることに同意します。**
+
+*パートナー署名:*
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+氏名:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+氏名:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+氏名:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+氏名:

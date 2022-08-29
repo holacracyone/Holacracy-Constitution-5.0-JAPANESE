@@ -1,18 +1,18 @@
-#### I'm newer to Holacracy. How should I use this platform? Are the discussions on here useful to me?
+#### 私はホラクラシーの初心者です。このプラットフォームをどのように使えばいいのでしょうか？ここでの議論は私にとって有用ですか？
 
-You should probably ignore everything you see here on GitHub. The writing and engagement here is not meant for the wider audience of Holacracy users, and may be seriously confusing if you're not already a skilled Holacracy practitioner. Instead, try the Holacracy Community of Practice: http://community.holacracy.org.
+このGitHubで見るものはすべて無視した方がいいです。ここで書かれた文章や取り組みはホラクラシーのユーザーという幅広い層向けではなく、あなたが熟練したホラクラシーの実践者でない場合は、ひどく混乱するかもしれません。代わりにホラクラシー実践コミュニテイを試してみてください: http://community.holacracy.org.
 
-#### Is the version of the Holacracy Constitution here on GitHub the official version I should use?
+#### GitHubにあるホラクラシー憲法のバージョンは、私が使うべき正式なバージョンなのでしょうか？
 
-No. This platform is to support Holacracy developers working on the next version of the Holacracy operating system, and the version you see here is the latest "under development" version - if this were software, it wouldn't even be released as an "alpha" or "beta" release yet, let alone a new version. You can find the official released version at http://holacracy.org/constitution.
+いいえ、このプラットフォームはホラクラシーオペレーティングシステムの次のバージョンに取り組んでいるホラクラシー開発者をサポートするためのもので、ここで見るバージョンは最新の「開発中」バージョンです。これがソフトウェアなら、新しいバージョンどころか、まだ「アルファ」「ベータ」リリースにさえなっていないはずです。正式にリリースされたバージョンは http://holacracy.org/constitution でご覧になれます。
 
-#### I see you changed a rule in the Constitution here in GitHub; should my company start relying on the new rule?
+#### GitHubの憲法にあるルールを変更したようですが、私の会社は新しいルールに従うべきですか？
 
-No. the version you see here is the latest "under development" version (see prior question). You should only rely on rules in the version of the Constitution that your organization officially adopted.
+いいえ、ここに表示されているバージョンは、最新の「開発中」バージョンです（前の質問を参照してください）。あなたの組織が正式に採用したバージョンのルールにのみ依拠する必要があります。
 
-#### I know Holacracy well, but I’m not very tech savvy. How do I use GitHub to contribute to evolving Holacracy?
+#### ホラクラシーをよく知っていますが、あまり技術に詳しくありません。GitHubを使ってホラクラシーを進化させるために貢献するにはどうすればいいですか？
 
-You can start by orienting yourself with these basic resources about Version (Revision) Control in Open Source development and GitHub basics. 
+まずは、オープンソース開発におけるバージョン（リビジョン）管理やGitHubの基本について、これらの基本的なリソースを参考にすることから始めてください。
 
 - http://en.wikipedia.org/w/index.php?title=Revision_control
 - https://help.github.com/articles/fork-a-repo

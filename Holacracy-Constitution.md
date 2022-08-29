@@ -1,470 +1,479 @@
-# **Holacracy Constitution**
+# **ホラクラシー憲法**
 
-## Preamble
+## 前文
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+**「批准者」** はこの **「憲法」** を **「組織」** の正式な権限体系として適用します。これにより、批准者は、批准者に権限がないものを除き、組織を管理・運営する権限をホラクラシー憲法のルールやプロセスに委譲するものとします。批准者及びその承継人は、この憲法を適用する際に依拠したあらゆる権限を用いて、ホラクラシー憲法を改正または廃止することができますが、改正は書面により行われるものとします。
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+組織が憲法の適用前に有効であった既存の方針やシステムは、適用後も完全に効力を有しますが、憲法で定義された権限やプロセス以外でそれらを拡張・修正することはできません。これらの従来の方針やシステムは、ホラクラシー憲法のプロセスによって、それらに取って代わる、あるいは矛盾するものが作成された時点で、すべての権力と権限を失うことになります。
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+組織は、批准者の他に、組織の管理・運営を支援する **「パートナー」** を指定することができます。ただし、そのパートナーも、ホラクラシー憲法の関連条項すべてを遵守することに同意していることが条件となります。この制約の中で、組織は批准者が別途指定しない限り、パートナーの資格をどのように付与または除去するかを定めることができ、批准者は、組織の最初のパートナーを指定することができます。
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+各パートナーは、ホラクラシー憲法の適用前に批准者が有していた権限を最大限に活用して、憲法で付与された権限に依拠することができます。パートナーに対するすべての責任と制約は、ホラクラシー憲法とそのプロセスの成果、及びパートナーが組織に対して、また組織を代表して行動する際に負う法的義務から生じます。暗黙の期待や制約によってパートナーが支配されることはなく、また、ホラクラシー憲法によって認められた権限の範囲外で命じられることもありません。
 
 
-## Article 1: Organizational Structure
+## 第1条: 組織体系
 
-### 1.1 Role Definition
+### 1.1 ロールの定義
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+**「ロール」** とは組織の構成要素であり、ある人がロールに就くことで、組織を代表して活動することができます。ロールに就いた人は誰でもそのロールの **「ロールリード」** となります。
 
-A Role definition consists of a descriptive name and one or more of the following:
+ロールの定義は、ロールを表す名前と、以下の１つ以上の項目から構成されます。
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **(a)** 1つの **「目的」**: ロールが追求または表現する能力や可能性、目標です。
+- **(b)** 1つまたは複数の **「領域」**: これは、「ロール」がその目的のために、自らの所有物として排他的に管理・規制できる資産、プロセスなどです。
+- **(c)** 1つまたは複数の **「責務」**: 他のロールを補助するために、またはその目的を支援するために、ロールが管理、実施する継続的な活動です。
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+ロールは、ロール内に適用される権限の付与、制約、または特別なルールである **「ポリシー」** も持つことができます。
 
-### 1.2 Responsibilities of Role Leads
+### 1.2 ロールリードの責任
 
-As a Role Lead, you have the following responsibilities:
+ロールリードには以下の責任があります。
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 歪を処理する責任
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+あなたは、あなたのロールの目的および責任の実際の記述とそれらの理想的な可能性に対するあなたの構想を比較し、両者の間のギャップ（それぞれのギャップは **「歪」** です）を特定する責任を負います。そして、あなたはそれらの歪を解消しようとする責任があります。
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 目的と責務を処理する責任
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+あなたは、あなたのロールの目的および各責任をどのように実現するのか、以下を定義することによって定期的に検討する責任があります。
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a) ネクストアクション:** 少なくとも競合する優先事項がない限り、すぐにでも実行できる有用な行動。
+- **(b) プロジェクト:** 少なくとも競合する優先事項がない限り、取り組むべきと思われる具体的な成果。
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.3 プロジェクトを細分化する責任
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+あなたは、あなたのロールの進行中のプロジェクトそれぞれについて、ネクストアクションを定期的に定義する責任があります。
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 プロジェクト、ネクストアクション、歪を追跡する責任
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+あなたは、あなたのロールのすべてのプロジェクトとネクストアクションを文書化したリストに記録し、追跡する責任があります。また、解消しようとする歪が、プロジェクトまたはネクストアクションとして処理されるまで、その歪を追跡しなければなりません。さらに、あなたは、これらのリストを定期的に確認および更新することで、ロールで実施されるであろう仕事に関する信頼できる情報源として維持する責任を負います。
 
-#### 1.2.5 Executing Next-Actions
+#### 1.2.5 ネクストアクションを実行する責任
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+ロールで行動できる時間があるときはいつでも、実行可能なネクストアクションを検討して、組織に最も価値を与えるものを実行する責任があります。
 
-### 1.3 Circles
+### 1.3 サークル
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+**「サークル」** は、ある共通の目的を中心にロールとポリシーを組織化するための容器です。サークル内のロールとポリシーは、その振る舞いである **「ガバナンス」** を構成しています。
 
-#### 1.3.1 Breaking Down Roles
+#### 1.3.1 ロールの分解
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+すべてのロールの内部はサークルになっています。サークルは自身の作業を分解、組織化するために独自のロールやポリシーを持つことができます。ただし、本憲法で定義されたロールには適用されず、それらのロールを分解することはできません。
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+ロールの内部サークルは、そのロールを保有する外側のサークルの**子サークル**とみなされ、その外側のサークルはロールの**親サークル**とみなされます。
 
-#### 1.3.2 Delegating Domains
+#### 1.3.2 領域の委譲
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+サークルが内部のあるロールに領域を付与する場合、そのロールのロールリードはサークルを代表してその領域をコントロールすることができます。サークルがロールに付与できる領域は、サークル自身が保有する領域に含まれるもの、もしくはサークル自身の内部プロセスに関連するものに限られます。
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+ロールが領域をコントロールすると、その領域を支配するポリシーを、自身のガバナンスの中で作成することができます。ただし、領域を委譲したサークルは、その領域を支配する独自のポリシーを定義する権利をなお保持します。このように委譲元に定義されたポリシーは、矛盾が生じた場合、委譲先のロールが定義したポリシーより優先されます。
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+明示的に指定されない限り、ロールに領域を付与しても、サークルが資金や資産の支出をコントロールする権利を委譲したことにはなりません。
 
-#### 1.3.3 Anchor Circle
+#### 1.3.3 アンカーサークル
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+組織全体の目的を保持する最も広いサークルは、 **「アンカーサークル」** です。アンカーサークルは組織のすべての権限と領域を保持し、親サークルがありません。アンカーサークルは、ポリシーによって自らの目的を変更したり、自らの責務を明確にすることができます。
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+批准者は、この憲法を採用する際に、アンカーサークルの初期構造およびその他のガバナンスを定義することができます。
 
-#### 1.3.4 Linking Into Circles
+#### 1.3.4 サークルへのリンク
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+ロールは、他のサークルまたはその親サークルのポリシーによって求められた場合、そのサークルにリンクすることができます。
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+サークルにリンクされると、ロールはそのサークルのガバナンスの一部とみなされます。そのサークルは、そのロールに何かを追加したり、追加したものを後に変更することができます。ただし、サークルはロールを削除したり、他のサークルが追加したものを変更したりすることはできず、他のサークルはそのサークルが追加したものを変更または削除することはできません。ロールへの追加や変更の権限は、そのロールのリンク元のサークルにあります。ロールがリンクしているサークルは、親サークルとはみなされず、ロールの内部サークルはリンク元サークルの子サークルとみなされません。
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+サークルは、ロールへのリンクを招待したポリシーを削除するか、そのポリシーで定義された別の仕組みによって、ロールのリンクを解除することができます。ロールは、自身のポリシーか、親サークルのポリシーで規定されていない限り、リンク先のサークルから自身を削除することも選択できます。サークルからリンクが解除されると、そのサークルによってロールに追加されたガバナンスは自動的に削除されます。
 
-#### 1.3.5 Facilitator & Secretary Roles
+#### 1.3.5 ファシリテーターおよびセクレタリーのロール
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+どのサークルも、誰かをサークルの **「ファシリテーター」** として任命することができます。選ばれたファシリテーターは、「憲法に沿ったサークルのガバナンスと運営」を目的とし、サークルの **「ファシリテーターロール」** を担います。
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+どのサークルも、誰かをサークルの **「セクレタリー」** として任命することができます。選ばれたセクレタリーは、「憲法上必要な記録とミーティングを安定させること」を目的とし、サークルの **「セクレタリーロール」** を担います。
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+サークルは、自身のファシリテーターまたはセクレタリーに責務や領域を追加したり、追加したものを修正、削除することができます。いかなるサークルも、この憲法で定められたこれらのロールの目的や責務、領域を修正したり削除することはできません。
 
-### 1.4 Circle Leads
+### 1.4 サークルリード
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+ロールリードとして活動することは、そのロールの内部サークル内で **「サークルリード」** として活動することを意味し、すなわち内部サークルの **「サークルリードロール」** を担います。サークルリードロールは、サークル内の他のロールまたはプロセスにカバーされていない範囲で、幅広いロールの全体的な目的およびロールのすべての責務を持ちます。
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+アンカーサークルは、ポリシーで定められない限り、サークルリードを持ちません。
 
-#### 1.4.1 Assigning Roles
+#### 1.4.1 ロールへのアサイン
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+サークルリードは、サークル内のロールへのアサインをコントロールし、希望する人にアサインすることができます。ロールには、同時に複数の人をアサインすることもできます。アサインされた人は、別段の合意がない限り、後でそのロールへのアサインを辞退することができます。また、サークルリードは、サークル内のロールへのアサインをいつでも取り消すことができます。
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+サークルリードは、ロールへのアサインをさらに特定のコンテキストのみにフォーカスすることができます。そのためには、ロールの定義全体がそのコンテキストに関連している必要があります。フォーカスが用いられる場合、各アサインのフォーカスは、個別のロールのように振る舞います。ロールの目的、領域および責務はすべて適用されますが、アサインのフォーカス内でのみ適用されます。
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+サークルがロールへのアサインのコントロールを別のロールまたはプロセスに委譲していない限り、サークルリード以外の人は、サークル内でロールへアサインしたり、ロールへのアサインを取り消したりすることはできません。ポリシーでは、ロールへのアサインまたは解除をさらに制限することができます。
 
-#### 1.4.2 Covering Unfilled Roles
+#### 1.4.2 未アサインのロールのカバー
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+サークル内のロールに人がアサインされていない場合、各サークルリードは自動的にその未アサインのロールのロールリードとみなされます。
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+組織のパートナーではない人々によってのみロールへのアサインが埋められている場合、各サークルリードは自動的にそのロールのロールリードとみなされます。ただし、この初期アサインは、パートナーでない人が、パートナーが持つべき責任や義務を積極的に果たしていない範囲にのみ適用されます。
 
-#### 1.4.3 Defining Priorities & Strategies
+#### 1.4.3 優先事項と戦略の定義
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+サークルリードは、ロール間の優先事項の競合を解決するために、サークルの潜在的な労力の相対的価値を判断することができます。また、サークルリードは、サークルにおける優先順位付けの指針となる、１つまたは複数の **「戦略」** を定義することができます。
 
-#### 1.4.4 Routing External References
+#### 1.4.4 外部参照の振り分け
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+サークル外のガバナンスが、サークル自体またはサークル内のロールを参照する場合、サークルリードはその参照を上書きし、代わりにそのサークルの別のロールを参照するようにできます。この明確化は、そのサークルのガバナンスの変更とはみなされません。
 
-#### 1.4.5 Amending the Circle Lead Role
+#### 1.4.5 サークルリードロールの変更
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+サークルはサークルリードロールの目的を変更したり、ロールを削除したりすることはできません。
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
+サークルは、サークルリードロールに責務または領域を追加したり、追加したものを削除することができます。ただし、追加されたものは、再帰的にすべての子サークルのサークルリードロールにも自動的に適用されます。サークルは、自身のサークルリードロールやサークル内に関連するサークルリードロールのみには、責務や領域を追加することはできません。
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+サークルは、自身のサークルリードロールの責務、領域、権限、または機能を削除することができます。これを行うには、それらの項目をサークルの別のロールに配置するか、それらの項目を実現する代替手段を定義する必要があります。これを行うことで、これらの項目が委譲されている限り、これらの項目はサークルのサークリードロールから自動的に削除されます。
 
 
-## Article 2: Rules of Cooperation
+## 第2条: 協力のルール
 
-### 2.1 Duty of Transparency
+### 2.1 透明性の義務
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+パートナーは、組織のロールリードの要求に応じて、以下の通り透明性を確保する義務があります。
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
+- **(a) プロジェクトとネクストアクション:** 追跡しているプロジェクトとネクストアクションを組織のために共有しなければなりません。
+- **(b) 相対的な優先度:** 自分のプロジェクトやネクストアクションの相対的な優先度を、あなたの注意を惹こうとする他のものと比較して判断し、それを共有しなければなりません。
+- **(c) 見積もり:** プロジェクトやネクストアクションをいつまでに完了させるか、その見通しを示さなければなりません。現在の状況や優先事項を考慮した大まかな見積もりで十分です。詳細な分析や計画は必要ありませんし、この見積もりは決して約束ではありません。ガバナンスによる定めのない限り、この見積もりを追跡する義務も、それが変更された場合に見積もりの提供先に報告する義務もありません。
+- **(d) チェックリスト項目:** あなたは、自分のロールのため、または組織のパートナーとして、定期的な行動が完了しているか検証しなければなりません。要請があれば、あなたは、これらの検証事項の共有がもはや有用でなくなったと判断するまで、定期的に共有し続けなければなりません。
+- **(e) メトリクス:** あなたは、自分のロールまたは組織のパートナーとして収集したメトリクスを共有しなければなりません。要請があれば、メトリクスの共有がもはや有用でなくなったと判断するまで、これらのメトリクスを定期的に共有し続けなければなりません。
+- **(f) 進捗状況の更新:** あなたは、最後に共有した以降の自分のロールまたはプロジェクトに対して行った行動の進捗状況の概要を共有しなければなりません。要請があれば、あなたは、これらの進捗状況の更新が有用でなくなったと判断するまで、定期的に共有し続けなければなりません。 
+- **(g) その他の情報:** あなたは、あなたが容易に入手可能で、共有ても害にならないその他の情報を共有しなければなりません。
 
-### 2.2 Duty of Processing
+### 2.2 処理の義務
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows:
+パートナーとして、あなたは、組織内のロールリードからのメッセージや要求を、以下のように速やかに処理する義務があります。
 
-- **(a) Requests to Clarify:** Others may ask you to clarify the next steps for any of your Projects or for any Accountability of your Roles. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project. You must accept and track it if you believe it would make sense to work towards in one of your Roles or as a Partner of the Organization, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+- **(a) 明確化の要求:** 他者は、あなたのプロジェクトやあなたのロールの責務について、次のステップを明確にするよう要求するかもしれません。その場合、あなたは、あなたが取ることができる行動がある場合は、それを進めるためのネクストアクションを決定し、伝えなければなりません。もし、ない場合は、代わりに次の行動を取る前に待っていることを伝えなければなりません。
+- **(b) プロジェクトとネクストアクションの要求:** 他者が、あなたに特定のネクストアクションやプロジェクトを依頼することがあります。少なくとも競合する優先事項がない限り、それがあなたのロールの１つとして、あるいは組織のパートナーとして取り組むことが理にかなっていると思われる場合は、その要求を受け入れて追跡しなければなりません。そうしない場合は、その理由を説明するか、代わりに要求者の目標を達成すると思われるものを提案しなければなりません。
+- **(c) 領域に影響を与える要求:** 他者は、あなたのロールの１つがコントロールする領域に影響を与える要求をしてくるかもしれません。あなたは、その要求があなたのロールの目的や責務を果たす能力を低下させる理由がないと判断した場合、それを許可しなければなりません。そのような理由がある場合は、あなたは要求者にそれを説明しなければなりません。
 
-### 2.3 Duty of Prioritization
+### 2.3 優先の義務
 
-As a Partner, you have a duty to prioritize your attention in alignment with the following:
+パートナーとして、あなたには以下のように注意を優先させる義務があります。
 
-- **(a) Processing:** You must generally prioritize processing inbound messages to your Roles from other Role Leads over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when another Partner explicitly requests this prioritization for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on in a Role, you must consider any official Strategies or relative prioritizations of that Role, of any Circle holding that Role, and of any Super-Circle thereof. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities. Official priorities of a Circle are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for that Circle.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, no one may interpret that as a mandate to meet that deadline regardless of the impact of doing so. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+- **(a) 処理:** あなたは通常、他のロールリードからあなたのロールに届くメッセージの処理を、あなた自身のネクストアクションの実行よりも優先しなければなりません。ただし、自身の処理が迅速である限り、都合の良い時間にまとめて処理ができるまでメッセージの処理を遅らせることができます。処理には、本条で挙げられているあらゆる義務に従い、要求に応じてメッセージをどのように処理したかを共有することも含まれます。処理には、あなたが担当するネクストアクションやプロジェクトの実行は含まれません。
+- **(b) ミーティング:** あなたは、他のパートナーが特定のミーティングを優先するよう明示的に要求した場合に限り、自分のネクストアクションの実行よりも、この憲法で定義されているあらゆるミーティングへの参加を優先しなければなりません。ただし、別のパートナーが特定のミーティングへの参加を優先するように要請された場合、その要請を拒否することができます。また、そのミーティングの時間に既に予定がある場合には、その要請を拒否することができます。
+- **(c) サークルの優先事項:** ロールの中で取り組むべきことを選択する際、あなたは、公式の戦略や、そのロール、そのロールを持つサークル、およびその親サークルの相対的な優先事項を考慮しなければなりません。そして、これらの公式な優先事項は、あなた個人の優先事項や組織の優先事項に対するあなたの判断よりも、組織にとって重要なものとして扱わなければなりません。サークルの公式の優先事項は、サークルリード、または優先事項の競合を解決し、そのサークルの戦略を定義するための権限を持つ他のロールやプロセスによって定義されます。
+- **(d) 期限:** サークルのガバナンスや公式戦略、優先順位付けに、いつまでに何かをしなければならないという期限が含まれている場合、影響度に関わらず、その期限を守ることを義務付けられたと解釈してはなりません。むしろ、そのサークルの他の活動よりも、その期限を守るために必要な行動が公式に優先されていると解釈し、それに従って行動しなければなりません。サークルリード、またはロール間の優先事項の衝突を解決する権限を持つロールやプロセスは、この優先順位付けを無効にすることができます。
 
-### 2.4 Relational Agreements
+### 2.4 関係契約
 
-As a Partner, you may have ***“Relational Agreements”*** with other Partners. These are agreements about how you will relate together while working in the Organization, or about how you will fulfill your general functions as Partners of the Organization. They may add to or clarify the duties in this Article, but they may not conflict with them.
+パートナーとして、あなたは他のパートナーとの間で **「関係契約」** を結ぶことができます。これらの契約は、組織で働く間、パートナー同士がどのように関わり合うか、または組織のパートナーとして一般的な機能をどのように果たすかについての契約です。これらの契約は、本条に記載された義務に追加したり、明確にしたりすることはできますが、対立することはできません。
 
-Relational Agreements must remain focused on shaping behaviors that generally underpin work; they may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor; they may not include promises to achieve specific outcomes or embody abstract qualities.
+関係契約は、一般的に仕事を支える行動を形成することに焦点を当てたものでなければなりません。関係契約は、あるロールにおいて行うべき仕事に関する期待や、パートナーが異なるロール間でどのように優先順位を付けるかに関する期待を規定してはなりません。また、具体的な行動や行動上の制約を規定するだけで、特定の成果を達成したり、抽象的な品質を盛り込むことを約束してはなりません。
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Unless otherwise agreed, either party may later terminate the Relational Agreement by notifying the other party.
+パートナーとして、あなたは、自分の個人的な希望、または自分が担うロールのために、他のパートナーに関係契約を要請することができます。パートナーは、自身の個人的な希望に基づき、要請された関係契約を受け入れるか否かを決定することができます。別段の合意がない限り、いずれの当事者も、相手方に通知することで、関係契約を終了させることができます。
 
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+パートナーとして、あなたは、自分の行動を締結した関係契約に一致させる義務があります。組織のためにミーティングやプロセスを進行する者も、この憲法に定義されたものと矛盾しない限り、そのミーティングやプロセスにおいてこれらの関係契約を施行することができます。
 
 
-## Article 3: Tactical Meetings
+## 第3条: タクティカルミーティング
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+パートナーは相互の責任と義務を果たすために **「タクティカルミーティング」** を開催することができます。各サークルのセクレタリーには、タクティカルミーティングを定期的に開催する責任があります。
 
-### 3.1 Attendance
+### 3.1 参加者
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+サークルのセクレタリーが招集する定例タクティカルミーティングには、ポリシーに別段の定めがない限り、サークルの全ロールが招待されます。その他のタクティカルミーティングの場合、そのミーティングを招集するパートナーは、そのミーティングに招待するロールを指定する必要があります。招集者があるロールのロールリードの一部のみを招待するように絞り込んでいない場合は、ロールリードを務めるすべてのパートナーは、そのロールを代表して参加するよう招待されます。
 
-### 3.2 Meeting Process
+### 3.2 ミーティングのプロセス
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+サークルのファシリテーターには、サークルの定期的なタクティカルミーティングの進行する責務があり、セクレタリーにはタクティカルミーティングのアウトプットを記録し公開する責務があります。サークルのセクレタリー以外が招集したタクティカルミーティングの場合、ミーティングを招集したパートナーは、それを進行し、そのアウトプットを記録するか、それを行う別のボランティアまたは適切なロールを任命する必要があります。
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+ポリシーに別段の定めがない限り、ミーティングを進行するものは次のプロセスを用いなければなりません。
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) チェックインラウンド:** 各参加者は、順番に現在の状況を共有するか、ミーティングのためのオープニングコメントを言います。反応は許可されていません。
+- **(b) チェックリストレビュー:** 各参加者は、ミーティングにおいて、各自のロールのために定期的に報告しているアクションが完了したことを確認する。
+- **(c) メトリクスレビュー:** 各参加者は、ミーティングにおいて、各自のロールのために定期的に報告しているメトリクスを共有する。
+- **(d) 進捗状況の更新:** 各参加者は、ミーティングにおいて、各自のロールのために定期的に報告しているプロジェクトまたは他の取り組みの進捗状況の重要な点を共有します。参加者は前回の報告以降の進捗のみを共有し、一般的な作業状況を共有することはできません。
+- **(e) アジェンダの作成:** 参加者は、ミーティング内で処理する項目のアジェンダを作成します。各参加者は、説明や議論をすることなく、それぞれに短いラベルを付けて、好きなだけアジェンダ項目を追加することができます。参加者はこのステップの後、既存の議題が処理されるまでの間に、さらにアジェンダ項目を追加することができます。
+- (f) **項目のトリアージ:** 各アジェンダ項目を処理するために、アジェンダ項目所有者は、パートナーとしての参加者の一般的な能力で、または参加者がミーティングで代表しているロールのいずれかで、他の参加者に要求を行うことができます。ただし、あるロールに対する要求は、要求者がそのミーティングで代表しているロールに対してのみ行うことができます。ミーティングの進行役は、ミーティング全体の空き時間を確保するために、各アジェンダに許可された時間を管理し、ミーティング時間の適切な割合を超えた項目の処理を切り上げることができます。
+- **(g) クロージング:** 各参加者は、順番にミーティングについての振り返りを共有します。反応は許可されていません。
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+サークルのポリシーでは、サークルのロールによって招集されたタクティカルミーティングの代替プロセスを指定するか、この規定のプロセスを修正することができます。
 
 
-## Article 4: Distributed Authority
+## Article 4: 権限の分散
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+ロールリードとして、あなたは、この憲法に定義されたルールに違反しない限り、自分のロールの目的または責務を果たすために、あらゆる行動または決定を行う権限を有します。あなたが取り得る行動に優先順位を付け、選択する際には、それぞれの組織にとっての相対的な価値について、あなた自身が合理的に判断することができます。
 
-### 4.1 Constraints on Authority
+### 4.1 権限の制約
 
-As a Role Lead, you must honor the following constraints on your authority.
+ロールリードとして、あなたは、自身の権限に関する以下の制約を尊重しなければなりません。
 
-#### 4.1.1 Don't Violate Policies
+#### 4.1.1 ポリシーに違反しないこと
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+ロールとして行動している時、あなたは、ロールやロールを包含するサークルのポリシーに違反してはなりません。
 
-#### 4.1.2 Get Permission Before Impacting Domains
+#### 4.1.2 領域に影響を与える前に許可を得ること
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+自分のロールのために、あなたは、自分のロールの領域に影響を与え、コントロールする権限を持っています。
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+さらに、あなたのロールを包含するサークルが所有し、他に委譲されていない領域や、そのサークル自体が自身のロール影響する可能性がある領域に影響を与える事ができます。ただし、あなたが与えた影響を取り消すのが実質的に困難であったり、高価になると考えられる場合は、許可を得る必要があります。
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+あなたは、許可を得ないかぎり、あなたのロールを含まないロールやサークルに委譲された領域をコントロールしたり、重大な影響を与えることはできません。また、他の主権者が所有する領域についても許可なく影響を与えることはできません。
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+領域に影響を与える許可が必要な場合、あなたは、その領域をコントロールしている人なら誰からでも許可を得ることができます。また、特定の行動を取る意図を表明し、関連する領域を持つ人に反論を促すことによっても、許可を得ることができます。この場合、あなたは、応答する上で妥当な期間待つ必要があります。その期間が経過した時点で誰も異議を唱えなかった場合、組織の中でアナウンスが届いたロールが所有する領域に影響を与える許可を得たことになります。書面によるアナウンスの場合、そのアナウンスは、使用したチャネルのメッセージを普段読んでいる人全員に届いたとみなすことができます。これにより付与された許可は、アナウンスした特定の行動を実行している間のみ適用されます。ポリシーによって、このプロセスが変更または制限されることがあります。
 
-#### 4.1.3 Get Authorization Before Spending Money
+#### 4.1.3 お金を使う前に認可を得ること
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+あなたは、先に承認されない限り、お金やその他の資産を使うことはできません。この承認は、それらのリソースを支出目的で既にコントロールしているロールから取得する必要があります。組織の重要な財産を処分することや、組織の権利を大幅に制限することも支出とみなされます。
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+支出の承認を得るには、承認を求めるロールに対して、支出の意図を書面でアナウンスする必要があります。このアナウンスは、そのロールのロールリードを務めるすべてのパートナー、またはそのロール内のすべてのパートナーが通常目にする場所で共有しなければなりません。書面には、支出の理由と、支出を行うロールを含める必要があります。その後、検討と返答をする上で妥当な期間待たなければなりません。アナウンスを受け取った人は、その支出をさらに検討するためにエスカレーションすることができ、エスカレーションされた場合は、支出を続けることはできません。しかし、あなたが承認を求めているロールのロールリードは、エスカレーションした人と同様に、エスカレーションを取り消すことができます。妥当な時間が経過し、エスカレーションが発生しなくなると、あなたのロールはそれらのリソースをコントロールできるようになります。これにより、あなたは、そのリソースを自分の目的のために使うこともできますし、さらに他の人に利用を承認することもできます。承認を与えたロールはそれらのリソースのコントロールを失いますが、そのロールのロールリードはいつでもこの権限を取り消すことができます。
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+ポリシーによって、このプロセスを変更したり、サークルのリソースの支出をコントロールする権限をロールに直接与えたりすることができます。
 
-### 4.2 Interpretation Authority
+### 4.2 解釈の権限
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+パートナーとして、あなたは、この憲法とその権限下にあるものを解釈するために、合理的な判断を下すことができます。さらに、あなたが直面する特定の状況において、これらがどのように適用されるかを解釈し、その解釈に基づいて行動することもできます。ただし、あなたは、すべてのガバナンスについて、それを含むサークルの目的と責務のコンテキスト、およびそのサークルまたはその親サークルの公式な解釈の裁定内で解釈しなければなりません。あなたは、このコンテキストやルールに矛盾する解釈を用いることはできません。
 
-#### 4.2.1 Conflicts of Interpretation
+#### 4.2.1 解釈の競合
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+この憲法及び組織のガバナンスに関するあなたの解釈は、時として他のパートナーの解釈と矛盾することがあります。このような場合、当事者のいずれかが、影響を受けるサークルのセクレタリーに、どちらの解釈を用いるべきかの判断を求めることができます。セクレタリーは、要請に応じて、憲法およびその権限下にあるあらゆるものを解釈する責任を負います。セクレタリーが返答した後は、関連する文書またはコンテキストが変更されるまで、その裁定に従わなければなりません。
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+解釈の裁定を下した後、セクレタリーはその裁定と背後にある論理を公開することができます。公開された場合、そのサークルとそれに含まれているサークルのセクレタリーは、今後の裁定において、その論理に沿うよう努めなければなりません。ただし、やむを得ない新しい状況によってその論理が陳腐化した場合、セクレタリーはその論理と矛盾することができます。
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+あなたは、セクレタリーの解釈を親サークルのセクレタリーに上訴することができます。親サークルのセクレタリーは、子サークルのセクレタリーの解釈を覆すことができます。
 
-#### 4.2.2 Striking Invalid Governance
+#### 4.2.2 無効なガバナンスの削除
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+パートナーは、サークルのセクレタリーに対し、そのサークルまたは子サークル内のガバナンスの有効性に関する裁定を求めることができます。セクレタリーは、そのガバナンスが本憲法のルールに違反すると判断した場合、サークルの記録からそのガバナンスを削除しなければなりません。その後、セクレタリーは削除した内容とその理由を、そのサークル内でロールを担当しているすべてのパートナーに速やかに伝えなければなりません。
 
-### 4.3 Individual Initiative
+### 4.3 個人イニシアティブ
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+パートナーは、場合によっては、自分のロールの権限を超えて行動したり、この憲法のルールに違反したりして、 **「個人イニシアティブ」** を取ることが認められています。
 
-#### 4.3.1 Allowed Situations
+#### 4.3.1 許容される状況
 
-You may only take Individual Initiative when all of the following are true:
+個人イニシアティブを行使できるのは、以下のすべてに該当する場合のみです。
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+- **(a)** 組織内のあるロールの目的を果たすため、または責務を体現するために誠実に行動していること。
+- **(b)** 自分の行動が、組織に生じる可能性のある歪よりも多くの歪を解決または防止すると確信していること。
+- **(c)** あなたの行動は、あなたが既に支出することを許可されている以上の支出を組織にさせないこと。
+- **(d)** あなたの行動が、何らかのポリシーや領域に違反する場合、許可を得たりガバナンスを変更させるために時間がかかることによって、多くの価値が失われると考えていること。
 
-#### 4.3.2 Communication & Restoration
+#### 4.3.2 コミュニケーションと復旧
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+個人イニシアティブの行動を取る場合、あなたはその行動を、大きな影響を受けると思われるロールリードに説明しなければなりません。そのようなロールリードの要請があれば、あなたは、個人イニシアティブによって生じた歪を解消するために、さらに行動を起こさなければなりません。また、そのようなロールリードの要請があれば、同様の個人イニシアティブを取ることを控えなければなりません。
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+あなたは、通常の業務よりも本項で溶融されるコミュニケーションと復旧を優先しなければなりません。ただし、あなたの行動の影響を受けるすべてのロールを包含するサークルのサークルリードは、この既定の優先順位を変更することができます。
 
 
-## Article 5: Governance Process
+## 第5条: ガバナンスプロセス
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+サークルのガバナンスを変更するには、ここに定義される **「ガバナンスプロセス」** を使う必要があります。
 
-### 5.1 Governance Participants
+### 5.1 ガバナンスの参加者
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+各サークルには、ガバナンスプロセスにおいて、そのロールを代表する **「サークルメンバー」** が存在します。
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+サークルのサークルメンバーとは、サークルリードロールを担うパートナー、およびサークル内のロールのロールリードを務める各パートナーを指します。あるロールに複数のロールリードがいる場合、サークルは、ガバナンスプロセスにおいて、サークルメンバーとしてそのロールを代表する人数を制限するポリシーを適用することができます。
 
-#### 5.1.1 Circle Reps
+#### 5.1.1 サークルレプ
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+サークルのサークルメンバーは、それを包含するより広いサークルにおいてそのサークルを代表するために、 **「サークルレプ」** として誰かを選出または交代するために、いつでも選挙を要求することができます。選出されたサークルレプは、「より広いサークル内のプロセスに関連する歪を発見し、解消する」という目的を持つサークル内の  **「サークルレプロール」** を担い、以下の責務を負います。
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+- **(a)** サークル内のロールリードから伝えられる歪を理解しようとすること。
+- **(b)** サークルを包含するより広いサークル内でのプロセスに適切な歪を見極めること。
+- **(c)** サークルの制約を取り除くために、より広いサークルの中で歪を処理すること。
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+サークルは、ポリシーで代替プロセスが定義されていない限り、サークルレプを選出するためにここに定義された統合的選挙プロセスを使用しなければなりません。サークルのサークルメンバーのみがサークルレプを務めることができます。サークルのサークルリードは、サークルレプをかねることはできません。そのサークルを包含するサークルのポリシーで認められていない限り、複数の人がサークルレプを務めることはできません。
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+選出されたサークルレプは、そのサークルを包含するサークルのサークルメンバーとなり、サークルリードと同様にサークルを代表する権限を持ちます。サークルを包含するサークルは、ポリシーによってサークルレプがサークルメンバーになることを制限または阻止することができますが、これは、そのサークル内でサークルレプと同等の代表権を享受する別の手段がある場合に限ります。
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+サークルは、サークルレプロールに責務や領域を追加することができ、追加されたそれらを修正または削除することができます。いかなるサークルも、本憲法により定義されたサークルレプロールの目的や責務を修正または削除することはできません。
 
-#### 5.1.2 Facilitator & Secretary
+#### 5.1.2 ファシリテーターとセクレタリー
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+サークルのファシリテーターは、ガバナンスプロセスの進行に責任を持ちます。サークルのセクレタリーは、ガバナンスプロセスのアウトプットを記録し公開する責任を有し、サークルのガバナンスの記録に関する領域を持ちます。
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+サークルメンバーはサークルのファシリテーターまたはセクレタリーとして誰かを選択または交代させるために、いつでも選挙を要求することができます。サークルは、ここに定義された統合的選挙プロセスを使用して、ファシリテーターまたはセクレタリーを選出する必要があります。いかなるロールやポリシーも、この方法以外でファシリテーターロールやセクレタリーロールに人をアサインしたり、アサインを解除したり、このプロセスを変更したりすることはできません。通常、この選挙に適格な候補者は、サークルのサークルメンバーのみです。ただし、サークルまたは親サークルのポリシーにより、適格な候補者を追加または制限することができます。
 
-### 5.2 Scope of Governance
+### 5.2 ガバナンスの範囲
 
-Within a Circle's Governance Process, its Circle Members may:
+サークルのガバナンスプロセスにおいて、そのサークルメンバーは以下のことを行うことができます。
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+- **(a)** サークルのロールの定義、修正、または削除
+- **(b)** サークルのポリシーの定義、修正、または削除
+- **(c)** サークルのロールまたはポリシーを、子サークルやそのさらに子のサークルへ移動すること。ただし、これはその子サークルの目的や責務を実現する場合に限られます。
+- **(d)** 子サークルまたはそのさらに子のサークルのロールやポリシーを、このサークルに移動すること。ただし、これはそのロールやポリシーが子サークルの目的や責務を実現することに関連しなくなった場合に限られます。
+- **(e)** サークル内で選出されるロールの選挙の実施
 
-No other decisions are valid outputs from a Circle's Governance Process.
+上記以外の決定は、サークルのガバナンスプロセスからの有効なアウトプットではありません。
 
-#### 5.2.1 Scope of Policy
+#### 5.2.1 ポリシーの範囲
 
-A Policy may only be one or more of the following:
+ポリシーは以下の1つまたは複数に限定されます。
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+- **(a)** サークルに含まれる1つ以上のロールの権限に対する制限
+- **(b)** 1つ以上のロールに対する、サークルまたはサークルリードが保有する権限の付与
+- **(c)** 人やロールに対し、サークルのいずれかの領域をコントロールしたり影響を与える権限が無い場合、それらの権限の付与。または、権限がある場合、その方法に関する制限
+- **(d)** 変更することが明示的に許可されている場合、本憲法の既定のルールやプロセスを変更するルール
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+特に明記されない限り、権限を付与または制限するポリシーは、すべての子サークルにも再帰的に適用されます。憲法の既定のルールまたはプロセスを変更するポリシーは、特に明記されない限り、そのポリシーを保有するサークル内にのみ適用され、明記されている場合は、すべての子サークルにも再帰的に適用されます。後者の場合、子サークルは元のポリシーで明示的に禁止されていない限り、自身のポリシーで元のポリシーを上書きすることができます。
 
-### 5.3 Changing Governance
+### 5.3 ガバナンスの変更
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+サークルのサークルメンバーは誰でも、そのガバナンスの変更を提案することにより、ガバナンスプロセスを開始することができます。これを行うには、 **「提案者」** は、まずセクレタリーが許可するコミュニケーションチャネルを用いて、他のすべてのサークルメンバーと **「提案」** を書面で共有しなければなりません。そのとき、他のサークルメンバーは、その提案の適用について、提案を明確にする質問をし、リアクションを共有し、懸念を表明することができます。それぞれの懸念は、この条項で記載された基準を満たす場合、 **「反論」** となり、それを提起した人は **「反論者」** となります。
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+各サークルメンバーが、提案に対して反論がないことを確認すると、その提案は適用され、サークルのガバナンスが修正されます。反論がある場合、提案者と各反論者は、サークルが提案を適用する前に反論に対処する方法を見つけなければなりません。このような奮闘の後、すべてのサークルメンバーには、再度反論する機会が与えられなければなりません。サークルは、反論の期限を定め、その期限を過ぎても回答がない場合は、反論がないものとするポリシーを適用することができます。サークルが非同期で提案を処理している間、サークルメンバーはリアルタイムに処理するために提案者に提案を同期ミーティングに持ち込むことを要求することができます。ポリシーに別段の定めがない限り、非同期処理は停止され、提案者はミーテイングで再提案されるまで、その提案を取り下げたものとみなされます。
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+サークルメンバーは、提案や反論を行う場合、サークル内で自身がロールリードを務めるか、サークルレプとして代表しているロールのみを代表することができます。また、サークルメンバーは、ロールリードから一時的に代表する許可を得たロールを、その許可が期限切れになるか取り消されるまで、代表することができます。
 
-#### 5.3.1 Proposal Requirements
+#### 5.3.1 提案の要件
 
-For a Proposal to be valid, the Proposer must be able to:
+提案が有効であるために、提案者は以下の項目を満たす必要があります。
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **(a)** 提案が、提案者のロールの1つに対し、提案が対処しようとする歪を記述すること
+- **(b)** その歪を説明する過去または現在の実例を共有すること
+- **(c)** その実例において、この提案がその歪をどのように解消するかについて、合理的に説明すること
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+提案がこれらの基準を満たさないことがファシリテーターにとって明らかになった場合、ファシリテーターはその提案を棄却しなければなりません。
 
-#### 5.3.2 Objection Requirements
+#### 5.3.2 反論の要件
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+提案の適用に関する懸念は、本論者が以下の基準の**すべて**を満たす理由について、合理的な説明を提供できる場合にのみ、反論として扱われます。
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **(a)** 提案が、サークルの目的または責務を遂行する能力を低下させること
+- **(b)** 提案が、たとえ反論者が組織で他のロールに就いていなかったとしても、サークルにおいて反論者が代表するロールの目的または責務を実行する能力を制限すること
+- **(c)** 提案が存在しなかったとしても、懸念が既に存在しないこと。つまり、その提案を適用することで、新しい歪が生まれること
+- **(d)** その提案が必ず影響を引き起こすか、もしくは引き起こす可能性があるとしても、重大な損害が生じる前にサークルが対応するための十分な機会がないこと
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+ただし、上記の基準に関わらず、提案の適用がこの憲法のルールに違反する場合、その懸念は常に反論とみなされます。
 
-#### 5.3.3 Testing Potential Objections
+#### 5.3.3 潜在的な反論のテスト
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+ファシリテーターは、懸念が必要な基準を満たしているか、またどのように満たしているかを反論者に質問することで、反論として扱うかどうかをテストすることができます。ファシリテーターは、質問の回答を評価する場合、反論者が各基準に対して論理的な主張を提示できたかのみで判断することができます。ファシリテーターは、主張の正確さやそれに対処することの重要性に基づいて判断することはできません。
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+提案の適用が憲法に違反することを理由とする反論があった場合、ファシリテーターは、サークルのセクレタリーにそれが事実か否かの解釈を求めることができます。セクレタリーがそうではないと判断した場合、ファシリテーターはその反論を棄却しなければなりません。
 
-#### 5.3.4 Rules of Integration
+#### 5.3.4 統合のルール
 
-While attempting to resolve an Objection, the following rules apply:
+反論を解決しようとするとき、以下のルールが適用されます。
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+- **(a)** ファシリテーターは、サークルメンバーから要求があった場合、反論をテストしなければなりません。反論の要件を満たしていない場合、ファシリテーターはそれを棄却しなければなりません。
+- **(b)** 反論者は、反論を解決し、かつ提案者の歪に対処する修正案を見つけることに努めなければなりません。ファシリテーターが、反論者が誠実にそれを試みていないと判断した場合、ファシリテーターは、その反論を放棄したものとみなし、棄却しなければなりません。
+- **(c)** サークルメンバーは、提案者に対して、提案の背後にある歪や提案者が歪を説明するために共有した実例について、明確にするための質問をすることができます。ファシリテーターが、提案者が誠実に回答していないと判断した場合、ファシリテーターはその提案を棄却しなければなりません。
+- **(d)** 反論者は、提案の修正案を提示し、それが歪を解消する理由について合理的な主張を提供することができます。その後、反論者の要求に応じて、提案者は、提案者が歪を説明するために使用した例のうち少なくとも1つについて、修正案が歪を解消しない合理的な理由を提示しなければなりません。必要があれば、提案者は、修正案が歪を解消できない理由を説明するために、別の例を追加することができます。ファシリテーターが、提案者がそうすることができない、またはそうする意思がないと判断した場合、ファシリテーターは元の提案を棄却しなければなりません。
 
-#### 5.3.5 Integrative Election Process
+#### 5.3.5 統合的選挙プロセス
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+サークルメンバーは、サークルレプ、ファシリテーター、またはセクレタリーを選挙することにより、サークルのガバナンスプロセスを開始することができます。ファシリテーターを担当する人は、以下の **「統合的選挙プロセス」** を実施しなければなりません。
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(a) ロールの説明:** まず、ファシリテーターは、対象となるロールと任期を指定します。また、ファシリテータは、選挙に関連する他の情報を提示することもできます。このステップと次のステップの間、誰も候補者に関してコメントをしてはなりません。
+- **(b) 候補者の指名:** 各サークルメンバーは、投票用紙または他の非公開のフォーラムを使用して、ロールに最適と思われる候補者を指名します。サークルメンバーは投票用紙に自分の名前を記入しなければならず、誰も棄権したり、複数の人を指名することはできません。
+- **(c) 指名共有ラウンド:** このステップでは、ファシリテーターが各投票内容をサークルメンバー全員に共有します。各投票者は、候補者がそのロールに適していると考える理由を述べ、他の人はそれに応えることはできません。投票者は、指名した以外の候補者についてコメントすることはできません。
+- **(d) 指名変更ラウンド:** すべての投票内容が共有された後、サークルメンバーは指名を変更することができます。このステップでは、反応することはできません。
+- **(e) 提案:** ファシリテーターは指名数を数え、最多の指名を集めた候補者を選出する提案を作成します。同点の場合、ファシリテーターは以下のいずれかを行うことができます。
+    
+    (i) 同点の候補者のうち、1名のみが自らを指名している場合、その人を提案する。
+    
+    (ii) 現在そのロールに就いている人が同点の候補者の中にいる場合、その人を提案する。
+    
+    (iii) 同点の候補者の中から無作為に1名を選び、その人を提案する。
+    
+    (iv) 前のステップに戻り、同点の候補者以外の人を指名したサークルメンバーに対し、その指名をいずれかの同点候補者に変更するよう依頼する。
+    
+- **(f) 反論ラウンド:** ファシリテーターは、各サークルメンバーに提案に対する反論の有無を確認します。反論が出た場合、ファシリテーターはそれを解決するための議論を許可するか、提案を破棄することができます。破棄された場合、ファシリテーターは前のステップに戻り、破棄された候補者の指名をすべて無視し、代わりに前のステップのルールを適用して別の候補者を選び、提案しなければなりません。
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+サークルは、ポリシーを適用し、統合選挙プロセスにおける候補者の指名または提案への反応の制限時間を定めることができます。制限時間に達した後、ファシリテーターは、未反応の人を残りのプロセスから除外しなければなりません。
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+サークルのファシリテーターは、各ロールの任期が満了した後、そのロールの新しい選挙を開始する責任があります。
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.6 ファシリテーターとセクレタリーの代理人
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+ファシリテーターまたはセクレタリーのロールに誰も就いていない間、代理人がそのロールを務めることができます。通常のファシリテーターやセクレタリーが不在の場合や、何らかの理由で代理人を要求した場合もまた、代理人がその役割を担います。
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+代理人が必要となった場合、代理人は次の優先順位に従って決まります。
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+- **(a)** 代理されるロールの人が指定した人
+- **(b)** ファシリテーターの場合はサークルのセクレタリー、セクレタリーの場合はサークルのファシリテーター
+- **(c)** サークルのサークルリード、サークルリードが複数いる場合、最初に代理として立候補した人
+- **(d)** サークルメンバーで、最初に代理として立候補した人
 
-### 5.4 Governance Meetings
+### 5.4 ガバナンスミーティング
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+ミーティング以外の非同期で行われる提案の処理に加えて、各サークルは、サークルのガバナンスプロセスをリアルタイムで実施するために、定期的な **「ガバナンスミーティング」** を開催します。
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+サークルのセクレタリーは、ガバナンスミーティングのスケジュール管理について責任を負います。サークルの定例ガバナンスミーティングに加え、セクレタリーはサークルメンバーの要求に応じて速やかに臨時のガバナンスミーティングのスケジュールを組む必要があります。ガバナンスミーティングの要求者は、さらに、臨時ガバナンスミーティングの意図およびそのミーティングで変更する可能性のある事項に関する制限を指定することができます。これには、ミーティングを特定の歪に集中させたり、あるロールの変更のみに限定することが含まれます。この場合、臨時ガバナンスミーティングの権限は、意図に沿った提案の処理や、制限内の変更のみに限定されます。
 
-#### 5.4.1 Attendance
+#### 5.4.1 参加者
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+サークルのすべてのサークルメンバーは、そのガバナンスミーティングに参加することができます。ファシリテーターとセクレタリーとなる人は、サークルのサークルメンバーでなくても参加できます。この場合、ミーティング中は一時的なサークルメンバーになります。
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+サークルレプとして、あなたは、自分のサークルを直接包含するサークルのガバナンスミーティングにパートナーを招待することができます。この招待は1度に1人のパートナーにのみ行うことができ、あなたが代表するサークルに影響を与える特定の歪の処理を助けるためにのみ行うことができます。あなた自身もその歪を感じていて、サークルで処理するのが理にかなっていると信じていなければなりません。招待されたゲストは、ミーティングの期間中、またはあなたが招待を取り消すまで、一時的なサークルメンバーとなります。ゲストは、特定の歪を処理している間のみ、ミーティングにおいてあなたと共にサークルを代表することができます。
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+上記を除き、サークルのガバナンスミーティングには、他の誰も参加することができません。
 
-#### 5.4.2 Notice & Duration
+#### 5.4.2 通知と期間
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+サークルは、セクレタリーがすべてのサークルメンバーに対して事前に適切な通知を行なった場合に限り、ガバナンスミーティングを開催できます。その他には、ポリシーで規定されない限り、ガバナンスミーティングを開催するのに必要な定足数はありません。
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+ガバナンスミーティングは、セクレタリーが当初予定した期間に達すると終了します。セクレタリーは、サークルメンバーからの要請がない場合に限り、ミーティングを延長することができます。
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+ガバナンスミーティングの一部またはすべてを欠席したサークルメンバーは、そこで行われた提案について懸念を表明する機会があったものとみなされます。したがって、サークルは、ガバナンスミーティングにおいて、欠席した人に関係なく提案を適用することができます。
 
-#### 5.4.3 Meeting Process
+#### 5.4.3 ミーティングのプロセス
 
-The Facilitator must use the following process for Governance Meetings:
+ファシリテーターは、ガバナンスミーティングにおいて、以下のプロセスを使用しなければなりません。
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) チェックインラウンド:** 各参加者は、順番に自分の状況を共有したりミーティングの開始に際してコメントしたりします。これに対して反応することはできません。
+- **(b) アジェンダの構築と処理:** ファシリテーターは、処理すべき歪のアジェンダを作成してから、各アジェンダ項目を順番に処理します。
+- **(c) クロージングラウンド:** 各参加者は、順番にミーティングの振り返りを共有します。これに対して反応することはできません。
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+このプロセスの任意の時点で、参加者は **「タイムアウト」** 休止を要求することができます。ファシリテーターは、この要求を許可するかしないか選ぶことができます。タイムアウトの間、参加者は、運営上の問題やこの憲法のルールについて話し合うことができます。しかし、タイムアウトを歪、提案、または反論の解消に使用することはできません。ファシリテーターは、いつでもタイムアウトを終了し、通常のミーティングプロセスを再開することができます。
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+サークルのポリシーにより、このプロセスに何か追加することはできますが、本条に定義されたルールや要件に抵触してはなりません。
 
-#### 5.4.4 Agenda Building
+#### 5.4.4 アジェンダの構築
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+ファシリテーターは、すべての参加者からアジェンダ項目を募集して、処理する歪のアジェンダを構築します。ファシリテーターはこれを事前にではなく、ミーティングの中で行わなければなりません。各参加者は、説明や議論することなく、それぞれに短いラベルを付けることで、希望する数のアジェンダ項目を追加することができます。参加者は、ミーティング中に、既存のアジェンダ項目が処理されるまでの間、さらにアジェンダ項目を追加することができます。
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+通常のガバナンスミーティングでは、ファシリテーターは、アジェンダ項目を処理する順番を選択することができます。ただし、参加者の要請があれば、選挙を求めるアジェンダ項目は他のすべてのアジェンダ項目より優先されなければなりません。参加者の要請により開催される特別なガバナンスミーティングでは、その参加者がアジェンダの順番を選択することができます。
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+アジェンダ項目は1つずつ処理されます。選挙を求めるアジェンダ項目を処理する際、ファシリテーターは、統合的選挙プロセスを用います。それ以外のアジェンダ項目を処理する際は、ファシリテーターは、以下に定義される統合意思決定プロセスを用います。
 
-#### 5.4.5 Integrative Decision-Making Process
+#### 5.4.5 統合的意思決定プロセス
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+ファシリテーターは、以下の **「統合的意思決定プロセス」** を実施しなければなりません。
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(a) 提案の提示:** まず、提案者は歪を説明し、それに対処するための提案を提示することができます。提案者の要求に応じて、ファシリテーターは、他の参加者による提案の作成の手助けを許可することができます。ただし、ファシリテーターは、提案者の歪に対処するための最初の提案に辿り着くことのみに、この手助けを集中させなければなりません。ファシリテーターは、提案に関するその他の歪や懸念について議論することを禁止しなければなりません。
+- **(b) 明瞭化のための質問:** 提案者が提案すると、他の参加者は、その提案やその背後にある歪をよりよく理解するために質問をすることができます。提案者は、それぞれの質問に回答するか回答を拒否することができます。ファシリテーターは、提案に対して表明される意見や反応を止め、あらゆる種類の議論が行われることを阻止しなければなりません。参加者は、このステップの間や、その他発言が許可されている任意の時点で、セクレタリーに対し、提案を読み上げたり既存のガバナンスを提示するように求めることができ、セクレタリーはそれに応じなければなりません。
+- **(c) リアクションラウンド:** 次に、提案者を除く各参加者は、提案に対するリアクションを1人ずつ共有することができます。ファシリテーターは、順番を無視したコメント、他の参加者を会話に引き込もうとするあらゆる試み、および提案ではなく他のリアクションに対するリアクションをただちに止めなければなりません。
+- **(d) 明瞭化のためのオプション:** 次に、提案者は、リアクションに対してコメントを共有したり、提案を修正したりすることができます。ただし、修正の主な目的は、提案者の歪に対処することであり、他の人に提起された歪に対処するためのものであってはなりません。ファシリテーターは、提案者またはセクレタリー以外の人のコメントをただちに止めなければなりません。セクレタリーによる関与も、修正された提案の記録のみに焦点を当てなければなりません。
+- **(e) 反論ラウンド:** 次に、各参加者は、1人ずつ、提案の適用について懸念を表明することができます。ファシリテーターは、これらの懸念を反論として捉えるか、反論の基準に合致するかどうかテストし、合致したものを反論と捉える必要があります。反論がなければその提案は適用されます。懸念のテストをしたり、反論を捉えている間、ファシリテーターは、反論者以外からのあらゆる議論や反応も止め、禁止しなければなりません。
+- **(f) 統合:** 反論がある場合、ファシリテーターは、1つずつに焦点を当てます。それぞれについて、参加者はブレーンストーミングを行い、反論を解消するために提案の修正案の可能性を探します。反論者が、修正案により反論が起こらなくなることを確認し、提案者がその修正案が歪に対処していることを確認したら、ファシリテーターは、反論を解消したものとしてマークします。このステップでは、ファシリテーターは、本条に記載された統合のルールを適用しなければなりません。すべての反論が解消されたら、ファシリテーターは修正された提案をもって再び反論ラウンドに戻ります。
 
-### 5.5 Process Breakdown
+### 5.5 プロセス障害
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+**「プロセス障害」** は、サークルがこの憲法のルールに違反する行動または結果を示した際に発生します。サークルのファシリテーターまたはセクレタリーは、自身のサークルや子サークルにおいて、合理的な判断により、プロセス障害を宣言することができます。関係するパートナーは、さらに、プロセス障害の可能性を探るために、ファシリテーターに子サークルの調査を依頼することができ、ファシリテーターは、要請に応じて子サークルのミーティングおよび記録を監査し、プロセス障害を発見した場合、それを宣言する責任があります。
 
-#### 5.5.1 Breakdown from Failed Governance
+#### 5.5.1 ガバナンスの失敗による障害
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+サークルのファシリテーターは、関係者が解決を求めて合理的な時間と労力を費やしたにもかかわらず、提案が解決に至らなかった場合にもサークルのプロセス障害を宣言することができます。
 
-#### 5.5.2 Process Restoration
+#### 5.5.2 プロセス復旧
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+権限を与えられた当事者が、サークル内でプロセス障害を宣言した場合、次のことが行われます。
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
+- **(a)** ファシリテーターは、サークル内の提案または反論を検証するために行われた議論の論理と関連性を判断する権限を得ます。
+- **(b)** 親サークルのファシリテーターは、そのサークル内の適正なプロセスを回復するためのプロジェクトを獲得します。
+- **(c)** 親サークルのファシリテーターは、そのサークルのファシリテーターまたはセクレタリーを引き継ぐ権限を得ます。
+- **(d)** 親サークルのファシリテーターは、プロセス障害の間、サークルに追加のサークルリードをアサインすることができます。その人がサークルリードとして下した決定は、他のサークルリードによる相反する決定に勝り、それを抑えます。
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+これらの権限は、親サークルのファシリテーターの評価によって、サークル内で適正なプロセスが回復され次第終了します。
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+プロセス障害が発生しているサークルに親サークルがない場合、上記の権限はすべて代わりにそのサークル自身のファシリテーターに与えられます。
 
-#### 5.5.3 Escalation of Process Breakdown
+#### 5.5.3 プロセス障害のエスカレーション
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+あるサークルで発生したプロセス障害は、自動的にその親サークルのプロセス障害とみなされることはありません。ただし、不当と思われる時間を掛けても依然として解決されない場合、親サークルでもプロセス障害が発生しているとみなされます。
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+本作は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示-継承 4.0 国際ライセンス</a>のもとに提供されています。
 
 ---
