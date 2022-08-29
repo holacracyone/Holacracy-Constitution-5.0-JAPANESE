@@ -23,7 +23,7 @@ Holacracy®は、Linux®、Wikipedia®、Java®と同じように、HolacracyOne
 ### Contributors
 バージョン4.0まで、ホラクラシー憲法はBrian RobertsonとHolacracyOneによって開発されました。
 
-v4.1の貢献者は、Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthonyなどです。
+v4.1の貢献者は、Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen, Jeffrey Anthonyなどです。
 
 v5.0への貢献者の一覧は、憲法のGitHubリポジトリと課題データベースへの投稿履歴をご覧ください。
 
